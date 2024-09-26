@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJ0Q31EwMlfHnZzS9w4Y+7qcp7Hs4MTMnqGkxTxtX25nrJsJhnMGI0PpPmoGRxlABPu5d/fUOe/S1LuUscJdDw==",
+  "success": true,
+  "projectFilePath": "C:\\PrysDbustos\\cursos\\bp\\dia9\\Curso\\Sonar\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core.Shared\\Empresa.Inv.Core.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

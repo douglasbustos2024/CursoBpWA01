@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6RwGrTn05mbGwuBXlKiAiM0Zrc4BmSttgGw4vvY4U2gCzE6SsqaXZvHCgMCnFCkrWgKC7T1Jchf4kIYt9df+Q==",
+  "success": true,
+  "projectFilePath": "C:\\PrysDbustos\\cursos\\bp\\dia9\\Curso\\Sonar\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\douglas.bustos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
